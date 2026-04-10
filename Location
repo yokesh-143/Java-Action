@@ -1,0 +1,3 @@
+Gen Token ->  http://localhost:8080/rest/prsauthgeneratetoken/v1/Auth/token
+
+Validate Token ->   http://localhost:8080/rest/prsvalidatetoken/v1/Secure/data
